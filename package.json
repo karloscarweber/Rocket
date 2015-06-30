@@ -1,0 +1,19 @@
+{
+  "name": "rocket",
+  "version": "0.0.0",
+  "description": "Rocket, A Rapid Web App Toolbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karloscarweber/Rocket.git"
+  },
+  "author": "karloscarweber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karloscarweber/Rocket/issues"
+  },
+  "homepage": "https://github.com/karloscarweber/Rocket#readme"
+}
